@@ -1,0 +1,345 @@
+# JMH version: 1.21
+# VM version: JDK 1.8.0_201, Java HotSpot(TM) 64-Bit Server VM, 25.201-b09
+# VM invoker: /home/matthias/bin/jdk1.8.0_201/jre/bin/java
+# VM options: <none>
+# Warmup: 5 iterations, 10 s each
+# Measurement: 5 iterations, 10 s each
+# Timeout: 10 min per iteration
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Throughput, ops/time
+# Benchmark: eu.doppel_helix.test.benchmark.licenseheader.StructureInstantiationBenchmark.testExceptionPointerConstructor
+
+# Run progress: 0,00% complete, ETA 00:33:20
+# Fork: 1 of 5
+# Warmup Iteration   1: 524859,445 ops/s
+# Warmup Iteration   2: 647257,767 ops/s
+# Warmup Iteration   3: 650303,235 ops/s
+# Warmup Iteration   4: 687115,588 ops/s
+# Warmup Iteration   5: 667043,700 ops/s
+Iteration   1: 674846,259 ops/s
+Iteration   2: 680206,569 ops/s
+Iteration   3: 719495,115 ops/s
+Iteration   4: 642650,749 ops/s
+Iteration   5: 673789,545 ops/s
+
+# Run progress: 5,00% complete, ETA 00:32:12
+# Fork: 2 of 5
+# Warmup Iteration   1: 636894,738 ops/s
+# Warmup Iteration   2: 653442,209 ops/s
+# Warmup Iteration   3: 647122,357 ops/s
+# Warmup Iteration   4: 603370,795 ops/s
+# Warmup Iteration   5: 642336,655 ops/s
+Iteration   1: 636325,664 ops/s
+Iteration   2: 587814,170 ops/s
+Iteration   3: 628039,869 ops/s
+Iteration   4: 619905,628 ops/s
+Iteration   5: 582507,945 ops/s
+
+# Run progress: 10,00% complete, ETA 00:30:23
+# Fork: 3 of 5
+# Warmup Iteration   1: 551217,146 ops/s
+# Warmup Iteration   2: 619418,726 ops/s
+# Warmup Iteration   3: 613885,443 ops/s
+# Warmup Iteration   4: 635814,441 ops/s
+# Warmup Iteration   5: 558839,337 ops/s
+Iteration   1: 603073,156 ops/s
+Iteration   2: 630959,473 ops/s
+Iteration   3: 564624,140 ops/s
+Iteration   4: 587225,689 ops/s
+Iteration   5: 540941,691 ops/s
+
+# Run progress: 15,00% complete, ETA 00:28:39
+# Fork: 4 of 5
+# Warmup Iteration   1: 563166,219 ops/s
+# Warmup Iteration   2: 570184,142 ops/s
+# Warmup Iteration   3: 633130,563 ops/s
+# Warmup Iteration   4: 667038,529 ops/s
+# Warmup Iteration   5: 598244,164 ops/s
+Iteration   1: 663533,682 ops/s
+Iteration   2: 670357,690 ops/s
+Iteration   3: 656721,208 ops/s
+Iteration   4: 658332,447 ops/s
+Iteration   5: 703484,123 ops/s
+
+# Run progress: 20,00% complete, ETA 00:26:57
+# Fork: 5 of 5
+# Warmup Iteration   1: 555187,427 ops/s
+# Warmup Iteration   2: 607210,576 ops/s
+# Warmup Iteration   3: 650550,108 ops/s
+# Warmup Iteration   4: 608603,505 ops/s
+# Warmup Iteration   5: 681971,283 ops/s
+Iteration   1: 647289,154 ops/s
+Iteration   2: 631037,074 ops/s
+Iteration   3: 652230,424 ops/s
+Iteration   4: 670766,805 ops/s
+Iteration   5: 650954,555 ops/s
+
+
+Result "eu.doppel_helix.test.benchmark.licenseheader.StructureInstantiationBenchmark.testExceptionPointerConstructor":
+  639084,513 ±(99.9%) 32096,500 ops/s [Average]
+  (min, avg, max) = (540941,691, 639084,513, 719495,115), stdev = 42847,909
+  CI (99.9%): [606988,013, 671181,013] (assumes normal distribution)
+
+
+# JMH version: 1.21
+# VM version: JDK 1.8.0_201, Java HotSpot(TM) 64-Bit Server VM, 25.201-b09
+# VM invoker: /home/matthias/bin/jdk1.8.0_201/jre/bin/java
+# VM options: <none>
+# Warmup: 5 iterations, 10 s each
+# Measurement: 5 iterations, 10 s each
+# Timeout: 10 min per iteration
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Throughput, ops/time
+# Benchmark: eu.doppel_helix.test.benchmark.licenseheader.StructureInstantiationBenchmark.testExceptionWithoutPointerConstructor
+
+# Run progress: 25,00% complete, ETA 00:25:14
+# Fork: 1 of 5
+# Warmup Iteration   1: 183238,936 ops/s
+# Warmup Iteration   2: 188367,550 ops/s
+# Warmup Iteration   3: 189582,606 ops/s
+# Warmup Iteration   4: 194442,565 ops/s
+# Warmup Iteration   5: 188824,839 ops/s
+Iteration   1: 193579,971 ops/s
+Iteration   2: 190064,835 ops/s
+Iteration   3: 194803,362 ops/s
+Iteration   4: 197353,374 ops/s
+Iteration   5: 175600,929 ops/s
+
+# Run progress: 30,00% complete, ETA 00:23:33
+# Fork: 2 of 5
+# Warmup Iteration   1: 176745,628 ops/s
+# Warmup Iteration   2: 183506,148 ops/s
+# Warmup Iteration   3: 188867,207 ops/s
+# Warmup Iteration   4: 184613,753 ops/s
+# Warmup Iteration   5: 187523,665 ops/s
+Iteration   1: 178291,416 ops/s
+Iteration   2: 191077,365 ops/s
+Iteration   3: 189148,293 ops/s
+Iteration   4: 179657,770 ops/s
+Iteration   5: 187256,613 ops/s
+
+# Run progress: 35,00% complete, ETA 00:21:51
+# Fork: 3 of 5
+# Warmup Iteration   1: 181401,413 ops/s
+# Warmup Iteration   2: 191949,988 ops/s
+# Warmup Iteration   3: 189995,664 ops/s
+# Warmup Iteration   4: 187644,043 ops/s
+# Warmup Iteration   5: 195667,124 ops/s
+Iteration   1: 197086,264 ops/s
+Iteration   2: 180955,698 ops/s
+Iteration   3: 190044,142 ops/s
+Iteration   4: 194661,322 ops/s
+Iteration   5: 192858,164 ops/s
+
+# Run progress: 40,00% complete, ETA 00:20:10
+# Fork: 4 of 5
+# Warmup Iteration   1: 180160,166 ops/s
+# Warmup Iteration   2: 169031,759 ops/s
+# Warmup Iteration   3: 180620,848 ops/s
+# Warmup Iteration   4: 188378,400 ops/s
+# Warmup Iteration   5: 172550,320 ops/s
+Iteration   1: 186827,430 ops/s
+Iteration   2: 180730,365 ops/s
+Iteration   3: 170405,321 ops/s
+Iteration   4: 184327,124 ops/s
+Iteration   5: 170256,900 ops/s
+
+# Run progress: 45,00% complete, ETA 00:18:28
+# Fork: 5 of 5
+# Warmup Iteration   1: 178537,938 ops/s
+# Warmup Iteration   2: 180677,393 ops/s
+# Warmup Iteration   3: 177023,306 ops/s
+# Warmup Iteration   4: 183555,145 ops/s
+# Warmup Iteration   5: 181391,737 ops/s
+Iteration   1: 184279,772 ops/s
+Iteration   2: 184700,645 ops/s
+Iteration   3: 194738,623 ops/s
+Iteration   4: 184069,773 ops/s
+Iteration   5: 191684,783 ops/s
+
+
+Result "eu.doppel_helix.test.benchmark.licenseheader.StructureInstantiationBenchmark.testExceptionWithoutPointerConstructor":
+  186578,410 ±(99.9%) 5808,737 ops/s [Average]
+  (min, avg, max) = (170256,900, 186578,410, 197353,374), stdev = 7754,498
+  CI (99.9%): [180769,673, 192387,147] (assumes normal distribution)
+
+
+# JMH version: 1.21
+# VM version: JDK 1.8.0_201, Java HotSpot(TM) 64-Bit Server VM, 25.201-b09
+# VM invoker: /home/matthias/bin/jdk1.8.0_201/jre/bin/java
+# VM options: <none>
+# Warmup: 5 iterations, 10 s each
+# Measurement: 5 iterations, 10 s each
+# Timeout: 10 min per iteration
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Throughput, ops/time
+# Benchmark: eu.doppel_helix.test.benchmark.licenseheader.StructureInstantiationBenchmark.testIterationPointerConstructor
+
+# Run progress: 50,00% complete, ETA 00:16:47
+# Fork: 1 of 5
+# Warmup Iteration   1: 535403,842 ops/s
+# Warmup Iteration   2: 567427,441 ops/s
+# Warmup Iteration   3: 555445,326 ops/s
+# Warmup Iteration   4: 564106,504 ops/s
+# Warmup Iteration   5: 573843,769 ops/s
+Iteration   1: 506450,293 ops/s
+Iteration   2: 524637,546 ops/s
+Iteration   3: 526009,145 ops/s
+Iteration   4: 574940,182 ops/s
+Iteration   5: 557471,244 ops/s
+
+# Run progress: 55,00% complete, ETA 00:15:06
+# Fork: 2 of 5
+# Warmup Iteration   1: 617293,353 ops/s
+# Warmup Iteration   2: 600570,211 ops/s
+# Warmup Iteration   3: 602293,757 ops/s
+# Warmup Iteration   4: 594798,782 ops/s
+# Warmup Iteration   5: 590345,341 ops/s
+Iteration   1: 637706,389 ops/s
+Iteration   2: 612065,629 ops/s
+Iteration   3: 581578,905 ops/s
+Iteration   4: 590801,675 ops/s
+Iteration   5: 594672,387 ops/s
+
+# Run progress: 60,00% complete, ETA 00:13:26
+# Fork: 3 of 5
+# Warmup Iteration   1: 560983,846 ops/s
+# Warmup Iteration   2: 576719,187 ops/s
+# Warmup Iteration   3: 600055,732 ops/s
+# Warmup Iteration   4: 584774,002 ops/s
+# Warmup Iteration   5: 579531,438 ops/s
+Iteration   1: 586300,866 ops/s
+Iteration   2: 535611,864 ops/s
+Iteration   3: 580545,313 ops/s
+Iteration   4: 590183,661 ops/s
+Iteration   5: 547283,693 ops/s
+
+# Run progress: 65,00% complete, ETA 00:11:45
+# Fork: 4 of 5
+# Warmup Iteration   1: 646712,050 ops/s
+# Warmup Iteration   2: 658885,444 ops/s
+# Warmup Iteration   3: 625643,575 ops/s
+# Warmup Iteration   4: 675309,074 ops/s
+# Warmup Iteration   5: 641067,806 ops/s
+Iteration   1: 592148,587 ops/s
+Iteration   2: 667301,318 ops/s
+Iteration   3: 683585,181 ops/s
+Iteration   4: 673993,339 ops/s
+Iteration   5: 674305,981 ops/s
+
+# Run progress: 70,00% complete, ETA 00:10:04
+# Fork: 5 of 5
+# Warmup Iteration   1: 567054,273 ops/s
+# Warmup Iteration   2: 689797,771 ops/s
+# Warmup Iteration   3: 616208,602 ops/s
+# Warmup Iteration   4: 617810,443 ops/s
+# Warmup Iteration   5: 636193,274 ops/s
+Iteration   1: 558369,548 ops/s
+Iteration   2: 587490,256 ops/s
+Iteration   3: 693150,837 ops/s
+Iteration   4: 588717,019 ops/s
+Iteration   5: 612390,346 ops/s
+
+
+Result "eu.doppel_helix.test.benchmark.licenseheader.StructureInstantiationBenchmark.testIterationPointerConstructor":
+  595108,448 ±(99.9%) 38915,129 ops/s [Average]
+  (min, avg, max) = (506450,293, 595108,448, 693150,837), stdev = 51950,584
+  CI (99.9%): [556193,319, 634023,577] (assumes normal distribution)
+
+
+# JMH version: 1.21
+# VM version: JDK 1.8.0_201, Java HotSpot(TM) 64-Bit Server VM, 25.201-b09
+# VM invoker: /home/matthias/bin/jdk1.8.0_201/jre/bin/java
+# VM options: <none>
+# Warmup: 5 iterations, 10 s each
+# Measurement: 5 iterations, 10 s each
+# Timeout: 10 min per iteration
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Throughput, ops/time
+# Benchmark: eu.doppel_helix.test.benchmark.licenseheader.StructureInstantiationBenchmark.testIterationWithoutPointerConstructor
+
+# Run progress: 75,00% complete, ETA 00:08:23
+# Fork: 1 of 5
+# Warmup Iteration   1: 303765,208 ops/s
+# Warmup Iteration   2: 346590,207 ops/s
+# Warmup Iteration   3: 332546,917 ops/s
+# Warmup Iteration   4: 349642,188 ops/s
+# Warmup Iteration   5: 352142,916 ops/s
+Iteration   1: 351576,874 ops/s
+Iteration   2: 340946,509 ops/s
+Iteration   3: 348910,160 ops/s
+Iteration   4: 315515,029 ops/s
+Iteration   5: 343099,402 ops/s
+
+# Run progress: 80,00% complete, ETA 00:06:42
+# Fork: 2 of 5
+# Warmup Iteration   1: 293323,980 ops/s
+# Warmup Iteration   2: 326410,687 ops/s
+# Warmup Iteration   3: 318355,272 ops/s
+# Warmup Iteration   4: 340127,606 ops/s
+# Warmup Iteration   5: 332168,240 ops/s
+Iteration   1: 339729,876 ops/s
+Iteration   2: 328360,912 ops/s
+Iteration   3: 335166,075 ops/s
+Iteration   4: 332263,405 ops/s
+Iteration   5: 317775,939 ops/s
+
+# Run progress: 85,00% complete, ETA 00:05:02
+# Fork: 3 of 5
+# Warmup Iteration   1: 255558,326 ops/s
+# Warmup Iteration   2: 324789,835 ops/s
+# Warmup Iteration   3: 348077,238 ops/s
+# Warmup Iteration   4: 345253,422 ops/s
+# Warmup Iteration   5: 365755,658 ops/s
+Iteration   1: 353379,505 ops/s
+Iteration   2: 334198,969 ops/s
+Iteration   3: 325534,945 ops/s
+Iteration   4: 342819,166 ops/s
+Iteration   5: 336730,933 ops/s
+
+# Run progress: 90,00% complete, ETA 00:03:21
+# Fork: 4 of 5
+# Warmup Iteration   1: 274448,777 ops/s
+# Warmup Iteration   2: 349450,116 ops/s
+# Warmup Iteration   3: 342648,892 ops/s
+# Warmup Iteration   4: 341576,449 ops/s
+# Warmup Iteration   5: 328199,285 ops/s
+Iteration   1: 341505,439 ops/s
+Iteration   2: 320256,435 ops/s
+Iteration   3: 341936,576 ops/s
+Iteration   4: 350571,835 ops/s
+Iteration   5: 328881,480 ops/s
+
+# Run progress: 95,00% complete, ETA 00:01:40
+# Fork: 5 of 5
+# Warmup Iteration   1: 297419,346 ops/s
+# Warmup Iteration   2: 344566,489 ops/s
+# Warmup Iteration   3: 322118,606 ops/s
+# Warmup Iteration   4: 345874,342 ops/s
+# Warmup Iteration   5: 344812,578 ops/s
+Iteration   1: 304479,596 ops/s
+Iteration   2: 328146,108 ops/s
+Iteration   3: 346273,485 ops/s
+Iteration   4: 335963,199 ops/s
+Iteration   5: 318864,323 ops/s
+
+
+Result "eu.doppel_helix.test.benchmark.licenseheader.StructureInstantiationBenchmark.testIterationWithoutPointerConstructor":
+  334515,447 ±(99.9%) 9376,501 ops/s [Average]
+  (min, avg, max) = (304479,596, 334515,447, 353379,505), stdev = 12517,361
+  CI (99.9%): [325138,946, 343891,948] (assumes normal distribution)
+
+
+# Run complete. Total time: 00:33:35
+
+REMEMBER: The numbers below are just data. To gain reusable insights, you need to follow up on
+why the numbers are the way they are. Use profilers (see -prof, -lprof), design factorial
+experiments, perform baseline and negative tests that provide experimental control, make sure
+the benchmarking environment is safe on JVM/OS/HW level, ask for reviews from the domain experts.
+Do not assume the numbers tell you what you want them to tell.
+
+Benchmark                                                                Mode  Cnt       Score       Error  Units
+StructureInstantiationBenchmark.testExceptionPointerConstructor         thrpt   25  639084,513 ± 32096,500  ops/s
+StructureInstantiationBenchmark.testExceptionWithoutPointerConstructor  thrpt   25  186578,410 ±  5808,737  ops/s
+StructureInstantiationBenchmark.testIterationPointerConstructor         thrpt   25  595108,448 ± 38915,129  ops/s
+StructureInstantiationBenchmark.testIterationWithoutPointerConstructor  thrpt   25  334515,447 ±  9376,501  ops/s

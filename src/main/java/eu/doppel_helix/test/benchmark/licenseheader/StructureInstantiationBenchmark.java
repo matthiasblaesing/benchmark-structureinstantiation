@@ -28,7 +28,7 @@ public class StructureInstantiationBenchmark {
 
     @Benchmark
     public DummyWithoutPointerConstructor testIterationWithoutPointerConstructor() throws IOException, URISyntaxException {
-        return newInstanceException(DummyWithoutPointerConstructor.class, DummyWithoutPointerConstructor.dummyPointer);
+        return newInstanceIterate(DummyWithoutPointerConstructor.class, DummyWithoutPointerConstructor.dummyPointer);
     }
 
     public static <T extends PublicUseMemoryStructure> T newInstanceException(Class<T> type, Pointer init) throws IllegalArgumentException {
