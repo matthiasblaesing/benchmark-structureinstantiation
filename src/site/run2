@@ -9,76 +9,76 @@
 # Benchmark mode: Throughput, ops/time
 # Benchmark: eu.doppel_helix.test.benchmark.licenseheader.StructureInstantiationBenchmark.testExceptionPointerConstructor
 
-# Run progress: 0,00% complete, ETA 00:33:20
+# Run progress: 0,00% complete, ETA 00:50:00
 # Fork: 1 of 5
-# Warmup Iteration   1: 524859,445 ops/s
-# Warmup Iteration   2: 647257,767 ops/s
-# Warmup Iteration   3: 650303,235 ops/s
-# Warmup Iteration   4: 687115,588 ops/s
-# Warmup Iteration   5: 667043,700 ops/s
-Iteration   1: 674846,259 ops/s
-Iteration   2: 680206,569 ops/s
-Iteration   3: 719495,115 ops/s
-Iteration   4: 642650,749 ops/s
-Iteration   5: 673789,545 ops/s
+# Warmup Iteration   1: 560896,080 ops/s
+# Warmup Iteration   2: 588926,051 ops/s
+# Warmup Iteration   3: 683269,316 ops/s
+# Warmup Iteration   4: 620882,617 ops/s
+# Warmup Iteration   5: 627952,143 ops/s
+Iteration   1: 589869,479 ops/s
+Iteration   2: 598931,775 ops/s
+Iteration   3: 618283,049 ops/s
+Iteration   4: 558144,891 ops/s
+Iteration   5: 620110,768 ops/s
 
-# Run progress: 5,00% complete, ETA 00:32:12
+# Run progress: 3,33% complete, ETA 00:48:51
 # Fork: 2 of 5
-# Warmup Iteration   1: 636894,738 ops/s
-# Warmup Iteration   2: 653442,209 ops/s
-# Warmup Iteration   3: 647122,357 ops/s
-# Warmup Iteration   4: 603370,795 ops/s
-# Warmup Iteration   5: 642336,655 ops/s
-Iteration   1: 636325,664 ops/s
-Iteration   2: 587814,170 ops/s
-Iteration   3: 628039,869 ops/s
-Iteration   4: 619905,628 ops/s
-Iteration   5: 582507,945 ops/s
+# Warmup Iteration   1: 570828,967 ops/s
+# Warmup Iteration   2: 632798,488 ops/s
+# Warmup Iteration   3: 631976,424 ops/s
+# Warmup Iteration   4: 535823,300 ops/s
+# Warmup Iteration   5: 657869,565 ops/s
+Iteration   1: 693037,912 ops/s
+Iteration   2: 531794,959 ops/s
+Iteration   3: 583202,728 ops/s
+Iteration   4: 613694,604 ops/s
+Iteration   5: 542661,394 ops/s
 
-# Run progress: 10,00% complete, ETA 00:30:23
+# Run progress: 6,67% complete, ETA 00:47:04
 # Fork: 3 of 5
-# Warmup Iteration   1: 551217,146 ops/s
-# Warmup Iteration   2: 619418,726 ops/s
-# Warmup Iteration   3: 613885,443 ops/s
-# Warmup Iteration   4: 635814,441 ops/s
-# Warmup Iteration   5: 558839,337 ops/s
-Iteration   1: 603073,156 ops/s
-Iteration   2: 630959,473 ops/s
-Iteration   3: 564624,140 ops/s
-Iteration   4: 587225,689 ops/s
-Iteration   5: 540941,691 ops/s
+# Warmup Iteration   1: 489168,384 ops/s
+# Warmup Iteration   2: 614470,421 ops/s
+# Warmup Iteration   3: 565264,007 ops/s
+# Warmup Iteration   4: 607781,122 ops/s
+# Warmup Iteration   5: 677310,704 ops/s
+Iteration   1: 659490,315 ops/s
+Iteration   2: 652974,922 ops/s
+Iteration   3: 688812,877 ops/s
+Iteration   4: 574509,185 ops/s
+Iteration   5: 644747,819 ops/s
 
-# Run progress: 15,00% complete, ETA 00:28:39
+# Run progress: 10,00% complete, ETA 00:45:23
 # Fork: 4 of 5
-# Warmup Iteration   1: 563166,219 ops/s
-# Warmup Iteration   2: 570184,142 ops/s
-# Warmup Iteration   3: 633130,563 ops/s
-# Warmup Iteration   4: 667038,529 ops/s
-# Warmup Iteration   5: 598244,164 ops/s
-Iteration   1: 663533,682 ops/s
-Iteration   2: 670357,690 ops/s
-Iteration   3: 656721,208 ops/s
-Iteration   4: 658332,447 ops/s
-Iteration   5: 703484,123 ops/s
+# Warmup Iteration   1: 553602,210 ops/s
+# Warmup Iteration   2: 686446,271 ops/s
+# Warmup Iteration   3: 655134,445 ops/s
+# Warmup Iteration   4: 660679,260 ops/s
+# Warmup Iteration   5: 559017,129 ops/s
+Iteration   1: 595453,492 ops/s
+Iteration   2: 684595,961 ops/s
+Iteration   3: 686430,320 ops/s
+Iteration   4: 600833,574 ops/s
+Iteration   5: 664073,720 ops/s
 
-# Run progress: 20,00% complete, ETA 00:26:57
+# Run progress: 13,33% complete, ETA 00:43:45
 # Fork: 5 of 5
-# Warmup Iteration   1: 555187,427 ops/s
-# Warmup Iteration   2: 607210,576 ops/s
-# Warmup Iteration   3: 650550,108 ops/s
-# Warmup Iteration   4: 608603,505 ops/s
-# Warmup Iteration   5: 681971,283 ops/s
-Iteration   1: 647289,154 ops/s
-Iteration   2: 631037,074 ops/s
-Iteration   3: 652230,424 ops/s
-Iteration   4: 670766,805 ops/s
-Iteration   5: 650954,555 ops/s
+# Warmup Iteration   1: 586798,502 ops/s
+# Warmup Iteration   2: 595244,804 ops/s
+# Warmup Iteration   3: 622462,484 ops/s
+# Warmup Iteration   4: 618418,541 ops/s
+# Warmup Iteration   5: 641224,902 ops/s
+Iteration   1: 629998,422 ops/s
+Iteration   2: 618865,673 ops/s
+Iteration   3: 683640,807 ops/s
+Iteration   4: 629207,935 ops/s
+Iteration   5: 619662,978 ops/s
 
 
 Result "eu.doppel_helix.test.benchmark.licenseheader.StructureInstantiationBenchmark.testExceptionPointerConstructor":
-  639084,513 ±(99.9%) 32096,500 ops/s [Average]
-  (min, avg, max) = (540941,691, 639084,513, 719495,115), stdev = 42847,909
-  CI (99.9%): [606988,013, 671181,013] (assumes normal distribution)
+  623321,182 ±(99.9%) 34596,118 ops/s [Average]
+  (min, avg, max) = (531794,959, 623321,182, 693037,912), stdev = 46184,828
+  CI (99.9%): [588725,064, 657917,300] (assumes normal distribution)
 
 
 # JMH version: 1.21
@@ -92,76 +92,76 @@ Result "eu.doppel_helix.test.benchmark.licenseheader.StructureInstantiationBench
 # Benchmark mode: Throughput, ops/time
 # Benchmark: eu.doppel_helix.test.benchmark.licenseheader.StructureInstantiationBenchmark.testExceptionWithoutPointerConstructor
 
-# Run progress: 25,00% complete, ETA 00:25:14
+# Run progress: 16,67% complete, ETA 00:42:02
 # Fork: 1 of 5
-# Warmup Iteration   1: 183238,936 ops/s
-# Warmup Iteration   2: 188367,550 ops/s
-# Warmup Iteration   3: 189582,606 ops/s
-# Warmup Iteration   4: 194442,565 ops/s
-# Warmup Iteration   5: 188824,839 ops/s
-Iteration   1: 193579,971 ops/s
-Iteration   2: 190064,835 ops/s
-Iteration   3: 194803,362 ops/s
-Iteration   4: 197353,374 ops/s
-Iteration   5: 175600,929 ops/s
+# Warmup Iteration   1: 187063,583 ops/s
+# Warmup Iteration   2: 190131,329 ops/s
+# Warmup Iteration   3: 192696,939 ops/s
+# Warmup Iteration   4: 190286,158 ops/s
+# Warmup Iteration   5: 186697,208 ops/s
+Iteration   1: 188765,383 ops/s
+Iteration   2: 185552,972 ops/s
+Iteration   3: 187023,961 ops/s
+Iteration   4: 177453,905 ops/s
+Iteration   5: 198264,529 ops/s
 
-# Run progress: 30,00% complete, ETA 00:23:33
+# Run progress: 20,00% complete, ETA 00:40:19
 # Fork: 2 of 5
-# Warmup Iteration   1: 176745,628 ops/s
-# Warmup Iteration   2: 183506,148 ops/s
-# Warmup Iteration   3: 188867,207 ops/s
-# Warmup Iteration   4: 184613,753 ops/s
-# Warmup Iteration   5: 187523,665 ops/s
-Iteration   1: 178291,416 ops/s
-Iteration   2: 191077,365 ops/s
-Iteration   3: 189148,293 ops/s
-Iteration   4: 179657,770 ops/s
-Iteration   5: 187256,613 ops/s
+# Warmup Iteration   1: 171679,243 ops/s
+# Warmup Iteration   2: 177774,663 ops/s
+# Warmup Iteration   3: 181912,685 ops/s
+# Warmup Iteration   4: 187054,189 ops/s
+# Warmup Iteration   5: 188062,532 ops/s
+Iteration   1: 172283,290 ops/s
+Iteration   2: 172678,837 ops/s
+Iteration   3: 183239,672 ops/s
+Iteration   4: 182429,125 ops/s
+Iteration   5: 197841,960 ops/s
 
-# Run progress: 35,00% complete, ETA 00:21:51
+# Run progress: 23,33% complete, ETA 00:38:37
 # Fork: 3 of 5
-# Warmup Iteration   1: 181401,413 ops/s
-# Warmup Iteration   2: 191949,988 ops/s
-# Warmup Iteration   3: 189995,664 ops/s
-# Warmup Iteration   4: 187644,043 ops/s
-# Warmup Iteration   5: 195667,124 ops/s
-Iteration   1: 197086,264 ops/s
-Iteration   2: 180955,698 ops/s
-Iteration   3: 190044,142 ops/s
-Iteration   4: 194661,322 ops/s
-Iteration   5: 192858,164 ops/s
+# Warmup Iteration   1: 181505,293 ops/s
+# Warmup Iteration   2: 192115,314 ops/s
+# Warmup Iteration   3: 184214,353 ops/s
+# Warmup Iteration   4: 189094,015 ops/s
+# Warmup Iteration   5: 193338,037 ops/s
+Iteration   1: 191901,153 ops/s
+Iteration   2: 193454,203 ops/s
+Iteration   3: 191166,114 ops/s
+Iteration   4: 191318,094 ops/s
+Iteration   5: 181744,279 ops/s
 
-# Run progress: 40,00% complete, ETA 00:20:10
+# Run progress: 26,67% complete, ETA 00:36:57
 # Fork: 4 of 5
-# Warmup Iteration   1: 180160,166 ops/s
-# Warmup Iteration   2: 169031,759 ops/s
-# Warmup Iteration   3: 180620,848 ops/s
-# Warmup Iteration   4: 188378,400 ops/s
-# Warmup Iteration   5: 172550,320 ops/s
-Iteration   1: 186827,430 ops/s
-Iteration   2: 180730,365 ops/s
-Iteration   3: 170405,321 ops/s
-Iteration   4: 184327,124 ops/s
-Iteration   5: 170256,900 ops/s
+# Warmup Iteration   1: 171526,237 ops/s
+# Warmup Iteration   2: 177182,169 ops/s
+# Warmup Iteration   3: 185601,428 ops/s
+# Warmup Iteration   4: 184840,926 ops/s
+# Warmup Iteration   5: 173028,282 ops/s
+Iteration   1: 187946,958 ops/s
+Iteration   2: 184775,048 ops/s
+Iteration   3: 187543,531 ops/s
+Iteration   4: 177881,814 ops/s
+Iteration   5: 186747,016 ops/s
 
-# Run progress: 45,00% complete, ETA 00:18:28
+# Run progress: 30,00% complete, ETA 00:35:15
 # Fork: 5 of 5
-# Warmup Iteration   1: 178537,938 ops/s
-# Warmup Iteration   2: 180677,393 ops/s
-# Warmup Iteration   3: 177023,306 ops/s
-# Warmup Iteration   4: 183555,145 ops/s
-# Warmup Iteration   5: 181391,737 ops/s
-Iteration   1: 184279,772 ops/s
-Iteration   2: 184700,645 ops/s
-Iteration   3: 194738,623 ops/s
-Iteration   4: 184069,773 ops/s
-Iteration   5: 191684,783 ops/s
+# Warmup Iteration   1: 178765,422 ops/s
+# Warmup Iteration   2: 187042,522 ops/s
+# Warmup Iteration   3: 185005,827 ops/s
+# Warmup Iteration   4: 178968,436 ops/s
+# Warmup Iteration   5: 168255,856 ops/s
+Iteration   1: 185199,282 ops/s
+Iteration   2: 178705,212 ops/s
+Iteration   3: 184543,391 ops/s
+Iteration   4: 188811,954 ops/s
+Iteration   5: 176987,908 ops/s
 
 
 Result "eu.doppel_helix.test.benchmark.licenseheader.StructureInstantiationBenchmark.testExceptionWithoutPointerConstructor":
-  186578,410 ±(99.9%) 5808,737 ops/s [Average]
-  (min, avg, max) = (170256,900, 186578,410, 197353,374), stdev = 7754,498
-  CI (99.9%): [180769,673, 192387,147] (assumes normal distribution)
+  185370,384 ±(99.9%) 5143,058 ops/s [Average]
+  (min, avg, max) = (172283,290, 185370,384, 198264,529), stdev = 6865,836
+  CI (99.9%): [180227,325, 190513,442] (assumes normal distribution)
 
 
 # JMH version: 1.21
@@ -175,76 +175,76 @@ Result "eu.doppel_helix.test.benchmark.licenseheader.StructureInstantiationBench
 # Benchmark mode: Throughput, ops/time
 # Benchmark: eu.doppel_helix.test.benchmark.licenseheader.StructureInstantiationBenchmark.testIterationPointerConstructor
 
-# Run progress: 50,00% complete, ETA 00:16:47
+# Run progress: 33,33% complete, ETA 00:33:34
 # Fork: 1 of 5
-# Warmup Iteration   1: 535403,842 ops/s
-# Warmup Iteration   2: 567427,441 ops/s
-# Warmup Iteration   3: 555445,326 ops/s
-# Warmup Iteration   4: 564106,504 ops/s
-# Warmup Iteration   5: 573843,769 ops/s
-Iteration   1: 506450,293 ops/s
-Iteration   2: 524637,546 ops/s
-Iteration   3: 526009,145 ops/s
-Iteration   4: 574940,182 ops/s
-Iteration   5: 557471,244 ops/s
+# Warmup Iteration   1: 600298,311 ops/s
+# Warmup Iteration   2: 635112,649 ops/s
+# Warmup Iteration   3: 664061,011 ops/s
+# Warmup Iteration   4: 627264,773 ops/s
+# Warmup Iteration   5: 622267,287 ops/s
+Iteration   1: 671189,369 ops/s
+Iteration   2: 617320,600 ops/s
+Iteration   3: 598939,109 ops/s
+Iteration   4: 584718,482 ops/s
+Iteration   5: 615007,973 ops/s
 
-# Run progress: 55,00% complete, ETA 00:15:06
+# Run progress: 36,67% complete, ETA 00:31:54
 # Fork: 2 of 5
-# Warmup Iteration   1: 617293,353 ops/s
-# Warmup Iteration   2: 600570,211 ops/s
-# Warmup Iteration   3: 602293,757 ops/s
-# Warmup Iteration   4: 594798,782 ops/s
-# Warmup Iteration   5: 590345,341 ops/s
-Iteration   1: 637706,389 ops/s
-Iteration   2: 612065,629 ops/s
-Iteration   3: 581578,905 ops/s
-Iteration   4: 590801,675 ops/s
-Iteration   5: 594672,387 ops/s
+# Warmup Iteration   1: 615559,743 ops/s
+# Warmup Iteration   2: 603958,254 ops/s
+# Warmup Iteration   3: 622839,484 ops/s
+# Warmup Iteration   4: 611041,556 ops/s
+# Warmup Iteration   5: 587336,795 ops/s
+Iteration   1: 595363,150 ops/s
+Iteration   2: 596685,259 ops/s
+Iteration   3: 599326,283 ops/s
+Iteration   4: 606308,224 ops/s
+Iteration   5: 575163,604 ops/s
 
-# Run progress: 60,00% complete, ETA 00:13:26
+# Run progress: 40,00% complete, ETA 00:30:13
 # Fork: 3 of 5
-# Warmup Iteration   1: 560983,846 ops/s
-# Warmup Iteration   2: 576719,187 ops/s
-# Warmup Iteration   3: 600055,732 ops/s
-# Warmup Iteration   4: 584774,002 ops/s
-# Warmup Iteration   5: 579531,438 ops/s
-Iteration   1: 586300,866 ops/s
-Iteration   2: 535611,864 ops/s
-Iteration   3: 580545,313 ops/s
-Iteration   4: 590183,661 ops/s
-Iteration   5: 547283,693 ops/s
+# Warmup Iteration   1: 566098,779 ops/s
+# Warmup Iteration   2: 637364,667 ops/s
+# Warmup Iteration   3: 623161,977 ops/s
+# Warmup Iteration   4: 641539,974 ops/s
+# Warmup Iteration   5: 612350,935 ops/s
+Iteration   1: 585892,191 ops/s
+Iteration   2: 680505,974 ops/s
+Iteration   3: 658385,656 ops/s
+Iteration   4: 644408,805 ops/s
+Iteration   5: 552466,970 ops/s
 
-# Run progress: 65,00% complete, ETA 00:11:45
+# Run progress: 43,33% complete, ETA 00:28:32
 # Fork: 4 of 5
-# Warmup Iteration   1: 646712,050 ops/s
-# Warmup Iteration   2: 658885,444 ops/s
-# Warmup Iteration   3: 625643,575 ops/s
-# Warmup Iteration   4: 675309,074 ops/s
-# Warmup Iteration   5: 641067,806 ops/s
-Iteration   1: 592148,587 ops/s
-Iteration   2: 667301,318 ops/s
-Iteration   3: 683585,181 ops/s
-Iteration   4: 673993,339 ops/s
-Iteration   5: 674305,981 ops/s
+# Warmup Iteration   1: 571545,321 ops/s
+# Warmup Iteration   2: 570753,365 ops/s
+# Warmup Iteration   3: 589257,889 ops/s
+# Warmup Iteration   4: 566129,781 ops/s
+# Warmup Iteration   5: 570358,426 ops/s
+Iteration   1: 610238,768 ops/s
+Iteration   2: 559952,539 ops/s
+Iteration   3: 580511,730 ops/s
+Iteration   4: 549275,226 ops/s
+Iteration   5: 567596,522 ops/s
 
-# Run progress: 70,00% complete, ETA 00:10:04
+# Run progress: 46,67% complete, ETA 00:26:51
 # Fork: 5 of 5
-# Warmup Iteration   1: 567054,273 ops/s
-# Warmup Iteration   2: 689797,771 ops/s
-# Warmup Iteration   3: 616208,602 ops/s
-# Warmup Iteration   4: 617810,443 ops/s
-# Warmup Iteration   5: 636193,274 ops/s
-Iteration   1: 558369,548 ops/s
-Iteration   2: 587490,256 ops/s
-Iteration   3: 693150,837 ops/s
-Iteration   4: 588717,019 ops/s
-Iteration   5: 612390,346 ops/s
+# Warmup Iteration   1: 592852,793 ops/s
+# Warmup Iteration   2: 604098,062 ops/s
+# Warmup Iteration   3: 655530,582 ops/s
+# Warmup Iteration   4: 679312,123 ops/s
+# Warmup Iteration   5: 720974,561 ops/s
+Iteration   1: 631777,342 ops/s
+Iteration   2: 629652,344 ops/s
+Iteration   3: 655511,511 ops/s
+Iteration   4: 664265,511 ops/s
+Iteration   5: 672513,813 ops/s
 
 
 Result "eu.doppel_helix.test.benchmark.licenseheader.StructureInstantiationBenchmark.testIterationPointerConstructor":
-  595108,448 ±(99.9%) 38915,129 ops/s [Average]
-  (min, avg, max) = (506450,293, 595108,448, 693150,837), stdev = 51950,584
-  CI (99.9%): [556193,319, 634023,577] (assumes normal distribution)
+  612119,078 ±(99.9%) 29505,790 ops/s [Average]
+  (min, avg, max) = (549275,226, 612119,078, 680505,974), stdev = 39389,385
+  CI (99.9%): [582613,288, 641624,868] (assumes normal distribution)
 
 
 # JMH version: 1.21
@@ -258,79 +258,245 @@ Result "eu.doppel_helix.test.benchmark.licenseheader.StructureInstantiationBench
 # Benchmark mode: Throughput, ops/time
 # Benchmark: eu.doppel_helix.test.benchmark.licenseheader.StructureInstantiationBenchmark.testIterationWithoutPointerConstructor
 
-# Run progress: 75,00% complete, ETA 00:08:23
+# Run progress: 50,00% complete, ETA 00:25:11
 # Fork: 1 of 5
-# Warmup Iteration   1: 303765,208 ops/s
-# Warmup Iteration   2: 346590,207 ops/s
-# Warmup Iteration   3: 332546,917 ops/s
-# Warmup Iteration   4: 349642,188 ops/s
-# Warmup Iteration   5: 352142,916 ops/s
-Iteration   1: 351576,874 ops/s
-Iteration   2: 340946,509 ops/s
-Iteration   3: 348910,160 ops/s
-Iteration   4: 315515,029 ops/s
-Iteration   5: 343099,402 ops/s
+# Warmup Iteration   1: 288702,279 ops/s
+# Warmup Iteration   2: 352382,499 ops/s
+# Warmup Iteration   3: 332546,538 ops/s
+# Warmup Iteration   4: 323409,548 ops/s
+# Warmup Iteration   5: 335912,380 ops/s
+Iteration   1: 360183,996 ops/s
+Iteration   2: 335728,792 ops/s
+Iteration   3: 328783,985 ops/s
+Iteration   4: 329405,315 ops/s
+Iteration   5: 318812,182 ops/s
 
-# Run progress: 80,00% complete, ETA 00:06:42
+# Run progress: 53,33% complete, ETA 00:23:31
 # Fork: 2 of 5
-# Warmup Iteration   1: 293323,980 ops/s
-# Warmup Iteration   2: 326410,687 ops/s
-# Warmup Iteration   3: 318355,272 ops/s
-# Warmup Iteration   4: 340127,606 ops/s
-# Warmup Iteration   5: 332168,240 ops/s
-Iteration   1: 339729,876 ops/s
-Iteration   2: 328360,912 ops/s
-Iteration   3: 335166,075 ops/s
-Iteration   4: 332263,405 ops/s
-Iteration   5: 317775,939 ops/s
+# Warmup Iteration   1: 284183,932 ops/s
+# Warmup Iteration   2: 314235,705 ops/s
+# Warmup Iteration   3: 353757,972 ops/s
+# Warmup Iteration   4: 334038,420 ops/s
+# Warmup Iteration   5: 333365,727 ops/s
+Iteration   1: 372625,970 ops/s
+Iteration   2: 336865,855 ops/s
+Iteration   3: 321718,302 ops/s
+Iteration   4: 351040,481 ops/s
+Iteration   5: 330342,156 ops/s
 
-# Run progress: 85,00% complete, ETA 00:05:02
+# Run progress: 56,67% complete, ETA 00:21:50
 # Fork: 3 of 5
-# Warmup Iteration   1: 255558,326 ops/s
-# Warmup Iteration   2: 324789,835 ops/s
-# Warmup Iteration   3: 348077,238 ops/s
-# Warmup Iteration   4: 345253,422 ops/s
-# Warmup Iteration   5: 365755,658 ops/s
-Iteration   1: 353379,505 ops/s
-Iteration   2: 334198,969 ops/s
-Iteration   3: 325534,945 ops/s
-Iteration   4: 342819,166 ops/s
-Iteration   5: 336730,933 ops/s
+# Warmup Iteration   1: 284270,210 ops/s
+# Warmup Iteration   2: 345205,429 ops/s
+# Warmup Iteration   3: 335394,434 ops/s
+# Warmup Iteration   4: 363843,486 ops/s
+# Warmup Iteration   5: 344411,427 ops/s
+Iteration   1: 340377,180 ops/s
+Iteration   2: 350882,240 ops/s
+Iteration   3: 353003,451 ops/s
+Iteration   4: 362775,955 ops/s
+Iteration   5: 335561,021 ops/s
 
-# Run progress: 90,00% complete, ETA 00:03:21
+# Run progress: 60,00% complete, ETA 00:20:10
 # Fork: 4 of 5
-# Warmup Iteration   1: 274448,777 ops/s
-# Warmup Iteration   2: 349450,116 ops/s
-# Warmup Iteration   3: 342648,892 ops/s
-# Warmup Iteration   4: 341576,449 ops/s
-# Warmup Iteration   5: 328199,285 ops/s
-Iteration   1: 341505,439 ops/s
-Iteration   2: 320256,435 ops/s
-Iteration   3: 341936,576 ops/s
-Iteration   4: 350571,835 ops/s
-Iteration   5: 328881,480 ops/s
+# Warmup Iteration   1: 281527,235 ops/s
+# Warmup Iteration   2: 349872,992 ops/s
+# Warmup Iteration   3: 334706,672 ops/s
+# Warmup Iteration   4: 336962,238 ops/s
+# Warmup Iteration   5: 356997,952 ops/s
+Iteration   1: 328455,727 ops/s
+Iteration   2: 325809,362 ops/s
+Iteration   3: 340158,977 ops/s
+Iteration   4: 323265,607 ops/s
+Iteration   5: 347712,807 ops/s
 
-# Run progress: 95,00% complete, ETA 00:01:40
+# Run progress: 63,33% complete, ETA 00:18:29
 # Fork: 5 of 5
-# Warmup Iteration   1: 297419,346 ops/s
-# Warmup Iteration   2: 344566,489 ops/s
-# Warmup Iteration   3: 322118,606 ops/s
-# Warmup Iteration   4: 345874,342 ops/s
-# Warmup Iteration   5: 344812,578 ops/s
-Iteration   1: 304479,596 ops/s
-Iteration   2: 328146,108 ops/s
-Iteration   3: 346273,485 ops/s
-Iteration   4: 335963,199 ops/s
-Iteration   5: 318864,323 ops/s
+# Warmup Iteration   1: 294815,419 ops/s
+# Warmup Iteration   2: 340929,801 ops/s
+# Warmup Iteration   3: 344712,554 ops/s
+# Warmup Iteration   4: 326660,541 ops/s
+# Warmup Iteration   5: 335988,047 ops/s
+Iteration   1: 336315,455 ops/s
+Iteration   2: 334874,482 ops/s
+Iteration   3: 349806,646 ops/s
+Iteration   4: 317388,515 ops/s
+Iteration   5: 308961,738 ops/s
 
 
 Result "eu.doppel_helix.test.benchmark.licenseheader.StructureInstantiationBenchmark.testIterationWithoutPointerConstructor":
-  334515,447 ±(99.9%) 9376,501 ops/s [Average]
-  (min, avg, max) = (304479,596, 334515,447, 353379,505), stdev = 12517,361
-  CI (99.9%): [325138,946, 343891,948] (assumes normal distribution)
+  337634,248 ±(99.9%) 11551,506 ops/s [Average]
+  (min, avg, max) = (308961,738, 337634,248, 372625,970), stdev = 15420,930
+  CI (99.9%): [326082,742, 349185,754] (assumes normal distribution)
 
 
-# Run complete. Total time: 00:33:35
+# JMH version: 1.21
+# VM version: JDK 1.8.0_201, Java HotSpot(TM) 64-Bit Server VM, 25.201-b09
+# VM invoker: /home/matthias/bin/jdk1.8.0_201/jre/bin/java
+# VM options: <none>
+# Warmup: 5 iterations, 10 s each
+# Measurement: 5 iterations, 10 s each
+# Timeout: 10 min per iteration
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Throughput, ops/time
+# Benchmark: eu.doppel_helix.test.benchmark.licenseheader.StructureInstantiationBenchmark.testUseMemoryPointerConstructor
+
+# Run progress: 66,67% complete, ETA 00:16:48
+# Fork: 1 of 5
+# Warmup Iteration   1: 288336,476 ops/s
+# Warmup Iteration   2: 340461,794 ops/s
+# Warmup Iteration   3: 321316,469 ops/s
+# Warmup Iteration   4: 332864,911 ops/s
+# Warmup Iteration   5: 336492,487 ops/s
+Iteration   1: 343377,467 ops/s
+Iteration   2: 379518,172 ops/s
+Iteration   3: 355805,993 ops/s
+Iteration   4: 363272,132 ops/s
+Iteration   5: 360725,598 ops/s
+
+# Run progress: 70,00% complete, ETA 00:15:08
+# Fork: 2 of 5
+# Warmup Iteration   1: 307412,318 ops/s
+# Warmup Iteration   2: 338152,684 ops/s
+# Warmup Iteration   3: 322994,435 ops/s
+# Warmup Iteration   4: 348404,867 ops/s
+# Warmup Iteration   5: 318559,141 ops/s
+Iteration   1: 344697,736 ops/s
+Iteration   2: 338634,575 ops/s
+Iteration   3: 345955,113 ops/s
+Iteration   4: 324530,836 ops/s
+Iteration   5: 333085,637 ops/s
+
+# Run progress: 73,33% complete, ETA 00:13:27
+# Fork: 3 of 5
+# Warmup Iteration   1: 283040,735 ops/s
+# Warmup Iteration   2: 336073,992 ops/s
+# Warmup Iteration   3: 315381,012 ops/s
+# Warmup Iteration   4: 350546,190 ops/s
+# Warmup Iteration   5: 339324,879 ops/s
+Iteration   1: 329347,650 ops/s
+Iteration   2: 349849,050 ops/s
+Iteration   3: 315634,670 ops/s
+Iteration   4: 342727,478 ops/s
+Iteration   5: 321734,212 ops/s
+
+# Run progress: 76,67% complete, ETA 00:11:46
+# Fork: 4 of 5
+# Warmup Iteration   1: 317836,432 ops/s
+# Warmup Iteration   2: 356644,952 ops/s
+# Warmup Iteration   3: 342261,933 ops/s
+# Warmup Iteration   4: 317833,151 ops/s
+# Warmup Iteration   5: 340223,785 ops/s
+Iteration   1: 357437,397 ops/s
+Iteration   2: 331611,211 ops/s
+Iteration   3: 340447,104 ops/s
+Iteration   4: 332675,143 ops/s
+Iteration   5: 353683,672 ops/s
+
+# Run progress: 80,00% complete, ETA 00:10:05
+# Fork: 5 of 5
+# Warmup Iteration   1: 286298,665 ops/s
+# Warmup Iteration   2: 355793,791 ops/s
+# Warmup Iteration   3: 342590,161 ops/s
+# Warmup Iteration   4: 363843,947 ops/s
+# Warmup Iteration   5: 314049,165 ops/s
+Iteration   1: 342497,375 ops/s
+Iteration   2: 320698,734 ops/s
+Iteration   3: 355520,290 ops/s
+Iteration   4: 331040,499 ops/s
+Iteration   5: 344819,101 ops/s
+
+
+Result "eu.doppel_helix.test.benchmark.licenseheader.StructureInstantiationBenchmark.testUseMemoryPointerConstructor":
+  342373,074 ±(99.9%) 11322,925 ops/s [Average]
+  (min, avg, max) = (315634,670, 342373,074, 379518,172), stdev = 15115,781
+  CI (99.9%): [331050,148, 353695,999] (assumes normal distribution)
+
+
+# JMH version: 1.21
+# VM version: JDK 1.8.0_201, Java HotSpot(TM) 64-Bit Server VM, 25.201-b09
+# VM invoker: /home/matthias/bin/jdk1.8.0_201/jre/bin/java
+# VM options: <none>
+# Warmup: 5 iterations, 10 s each
+# Measurement: 5 iterations, 10 s each
+# Timeout: 10 min per iteration
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Throughput, ops/time
+# Benchmark: eu.doppel_helix.test.benchmark.licenseheader.StructureInstantiationBenchmark.testUseMemoryWithoutPointerConstructor
+
+# Run progress: 83,33% complete, ETA 00:08:24
+# Fork: 1 of 5
+# Warmup Iteration   1: 306447,965 ops/s
+# Warmup Iteration   2: 347476,316 ops/s
+# Warmup Iteration   3: 344690,717 ops/s
+# Warmup Iteration   4: 334200,129 ops/s
+# Warmup Iteration   5: 357573,736 ops/s
+Iteration   1: 333285,654 ops/s
+Iteration   2: 338947,340 ops/s
+Iteration   3: 310173,809 ops/s
+Iteration   4: 346824,835 ops/s
+Iteration   5: 326628,837 ops/s
+
+# Run progress: 86,67% complete, ETA 00:06:43
+# Fork: 2 of 5
+# Warmup Iteration   1: 316401,799 ops/s
+# Warmup Iteration   2: 379078,686 ops/s
+# Warmup Iteration   3: 330899,391 ops/s
+# Warmup Iteration   4: 360110,363 ops/s
+# Warmup Iteration   5: 346284,129 ops/s
+Iteration   1: 369938,027 ops/s
+Iteration   2: 407172,579 ops/s
+Iteration   3: 323107,878 ops/s
+Iteration   4: 331930,940 ops/s
+Iteration   5: 356446,506 ops/s
+
+# Run progress: 90,00% complete, ETA 00:05:02
+# Fork: 3 of 5
+# Warmup Iteration   1: 296465,673 ops/s
+# Warmup Iteration   2: 359101,786 ops/s
+# Warmup Iteration   3: 364035,812 ops/s
+# Warmup Iteration   4: 345344,912 ops/s
+# Warmup Iteration   5: 358047,276 ops/s
+Iteration   1: 364792,107 ops/s
+Iteration   2: 361849,417 ops/s
+Iteration   3: 366735,298 ops/s
+Iteration   4: 326604,535 ops/s
+Iteration   5: 373804,894 ops/s
+
+# Run progress: 93,33% complete, ETA 00:03:21
+# Fork: 4 of 5
+# Warmup Iteration   1: 313953,848 ops/s
+# Warmup Iteration   2: 349765,462 ops/s
+# Warmup Iteration   3: 352210,950 ops/s
+# Warmup Iteration   4: 355382,796 ops/s
+# Warmup Iteration   5: 346863,312 ops/s
+Iteration   1: 377966,192 ops/s
+Iteration   2: 361026,484 ops/s
+Iteration   3: 359723,168 ops/s
+Iteration   4: 329188,613 ops/s
+Iteration   5: 369696,247 ops/s
+
+# Run progress: 96,67% complete, ETA 00:01:40
+# Fork: 5 of 5
+# Warmup Iteration   1: 297884,501 ops/s
+# Warmup Iteration   2: 364339,827 ops/s
+# Warmup Iteration   3: 362523,662 ops/s
+# Warmup Iteration   4: 324614,700 ops/s
+# Warmup Iteration   5: 349343,364 ops/s
+Iteration   1: 353946,820 ops/s
+Iteration   2: 351094,929 ops/s
+Iteration   3: 326099,843 ops/s
+Iteration   4: 357240,438 ops/s
+Iteration   5: 357652,574 ops/s
+
+
+Result "eu.doppel_helix.test.benchmark.licenseheader.StructureInstantiationBenchmark.testUseMemoryWithoutPointerConstructor":
+  351275,119 ±(99.9%) 16420,300 ops/s [Average]
+  (min, avg, max) = (310173,809, 351275,119, 407172,579), stdev = 21920,631
+  CI (99.9%): [334854,819, 367695,418] (assumes normal distribution)
+
+
+# Run complete. Total time: 00:50:28
 
 REMEMBER: The numbers below are just data. To gain reusable insights, you need to follow up on
 why the numbers are the way they are. Use profilers (see -prof, -lprof), design factorial
@@ -339,7 +505,9 @@ the benchmarking environment is safe on JVM/OS/HW level, ask for reviews from th
 Do not assume the numbers tell you what you want them to tell.
 
 Benchmark                                                                Mode  Cnt       Score       Error  Units
-StructureInstantiationBenchmark.testExceptionPointerConstructor         thrpt   25  639084,513 ± 32096,500  ops/s
-StructureInstantiationBenchmark.testExceptionWithoutPointerConstructor  thrpt   25  186578,410 ±  5808,737  ops/s
-StructureInstantiationBenchmark.testIterationPointerConstructor         thrpt   25  595108,448 ± 38915,129  ops/s
-StructureInstantiationBenchmark.testIterationWithoutPointerConstructor  thrpt   25  334515,447 ±  9376,501  ops/s
+StructureInstantiationBenchmark.testExceptionPointerConstructor         thrpt   25  623321,182 ± 34596,118  ops/s
+StructureInstantiationBenchmark.testExceptionWithoutPointerConstructor  thrpt   25  185370,384 ±  5143,058  ops/s
+StructureInstantiationBenchmark.testIterationPointerConstructor         thrpt   25  612119,078 ± 29505,790  ops/s
+StructureInstantiationBenchmark.testIterationWithoutPointerConstructor  thrpt   25  337634,248 ± 11551,506  ops/s
+StructureInstantiationBenchmark.testUseMemoryPointerConstructor         thrpt   25  342373,074 ± 11322,925  ops/s
+StructureInstantiationBenchmark.testUseMemoryWithoutPointerConstructor  thrpt   25  351275,119 ± 16420,300  ops/s

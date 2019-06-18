@@ -22,6 +22,11 @@ public class StructureInstantiationBenchmark {
     }
 
     @Benchmark
+    public DummyWithPointerConstructor testUseMemoryPointerConstructor() throws IOException, URISyntaxException {
+        return newInstanceUseMemory(DummyWithPointerConstructor.class, DummyWithPointerConstructor.dummyPointer);
+    }
+
+    @Benchmark
     public DummyWithoutPointerConstructor testExceptionWithoutPointerConstructor() throws IOException, URISyntaxException {
         return newInstanceException(DummyWithoutPointerConstructor.class, DummyWithoutPointerConstructor.dummyPointer);
     }
@@ -29,6 +34,11 @@ public class StructureInstantiationBenchmark {
     @Benchmark
     public DummyWithoutPointerConstructor testIterationWithoutPointerConstructor() throws IOException, URISyntaxException {
         return newInstanceIterate(DummyWithoutPointerConstructor.class, DummyWithoutPointerConstructor.dummyPointer);
+    }
+
+    @Benchmark
+    public DummyWithoutPointerConstructor testUseMemoryWithoutPointerConstructor() throws IOException, URISyntaxException {
+        return newInstanceUseMemory(DummyWithoutPointerConstructor.class, DummyWithoutPointerConstructor.dummyPointer);
     }
 
     public static <T extends PublicUseMemoryStructure> T newInstanceException(Class<T> type, Pointer init) throws IllegalArgumentException {
@@ -89,6 +99,16 @@ public class StructureInstantiationBenchmark {
             return s;
         } catch (InvocationTargetException | InstantiationException | IllegalAccessException | SecurityException | NoSuchMethodException ex) {
            throw new IllegalArgumentException(ex);
+        }
+    }
+
+    public static <T extends PublicUseMemoryStructure> T newInstanceUseMemory(Class<T> type, Pointer init) throws IllegalArgumentException {
+        try {
+            T s = type.getConstructor().newInstance();
+            s.useMemory(init);
+            return s;
+        } catch (InvocationTargetException | InstantiationException | IllegalAccessException | SecurityException | NoSuchMethodException ex) {
+            throw new IllegalArgumentException(ex);
         }
     }
 
